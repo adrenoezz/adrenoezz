@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrenoezz
-- 👀 I’m interested in web dev/c++ devlopment.
-- 🌱 I’m currently learning angular framework
+- 👀 I’m interested in python/c++ devlopment.
+- 🌱 I’m currently learning CUDA
 - 💞️ I’m looking to collaborate on a project with me.
 - 📫 How to reach me https://discord.gg/3cTwxr9RGk
 - 😄 Pronouns: he/him
