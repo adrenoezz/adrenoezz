@@ -1,40 +1,86 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*lhOax3cZATGZwEhG0uTYRA.gif)
-<h1 align="center">Hi 👋, I'm AdrenoEzz aka (anirudh)</h1>
-<h3 align="center">A committed Java/C++ developer.</h3>
+<h1 align="center">Hi 👋, I'm Anirudh (AdrenoEzz)</h1>
+<h3 align="center">C++ Developer | IoT Enthusiast | Graphics Programming Learner</h3>
+
 <img align="right" alt="coding" width="400" src="https://art.pixilart.com/0d92ea76c0f540a.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrenoezz&label=Profile%20views&color=0e75b6&style=flat" alt="adrenoezz" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adrenoezz&label=Profile%20Views&color=0e75b6&style=flat" alt="adrenoezz" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/adrenowastaken" target="blank"><img src="https://img.shields.io/twitter/follow/adrenowastaken?logo=twitter&style=for-the-badge" alt="adrenowastaken" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/adrenowastaken" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/adrenowastaken?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **Java 20**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **springboot and microservices**
+- 🔭 Currently building **ESP32 IoT Projects**
+- 🌱 Learning **OpenGL, Graphics Programming & Embedded Systems**
+- 💻 Interested in **C++, Python and Low-Level Development**
+- 🎮 Exploring **Game Development and Computer Graphics**
+- 📫 Reach me on Discord: **adrenoezz**
 
-- 🤝 I’m looking for help with **react/angular**
+## 🌐 Connect With Me
 
-- 📫 How to reach me **https://discord.gg/3cTwxr9RGk**
+<p align="left">
+<a href="https://twitter.com/adrenowastaken" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/anirudh-sharma-0ab9232a1/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://www.youtube.com/@adrenoplayzz" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+</a>
+</p>
+
+## 🛠 Languages and Tools
+
 <p align="left">
 
-<a href="https://twitter.com/adrenowastaken" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrenowastaken" height="30" width="40" />
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
-<a href=["https://www.linkedin.com/in/anirudh-sharma-0ab9232a1/" target="_blank"](https://www.linkedin.com/in/anirudh-sharma-0ab9232a1/)>
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh sharma" height="30" width="40" />
+
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
-<a href="https://www.youtube.com/@adrenoplayzz" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adreno playzz" height="30" width="40" />
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://www.opengl.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" width="40" height="40"/>
 </a>
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrenoezz&show_icons=true&locale=en&layout=compact" alt="adrenoezz" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adrenoezz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrenoezz&show_icons=true&locale=en" alt="adrenoezz" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adrenoezz&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrenoezz&" alt="adrenoezz" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrenoezz&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
