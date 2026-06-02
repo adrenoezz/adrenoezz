@@ -21,14 +21,11 @@
 <a href="https://twitter.com/adrenowastaken" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrenowastaken" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/anirudh-sharma-0ab9232a1/" target="_blank">
+<a href=["https://www.linkedin.com/in/anirudh-sharma-0ab9232a1/" target="_blank"](https://www.linkedin.com/in/anirudh-sharma-0ab9232a1/)>
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh sharma" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/@adrenoplayzz" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adreno playzz" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/mqFvfhNYOl/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adrenowastaken" height="30" width="40" />
 </a>
 
 </p>
