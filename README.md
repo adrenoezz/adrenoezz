@@ -20,7 +20,7 @@
 - 💻 Interested in **C++, Python and Low-Level Development**
 - 🎮 Exploring **Game Development and Computer Graphics**
 - ⚡ Goal: Become a **Graphics & Systems Programmer**
-- 📫 Reach me on Discord: **adrenoezz**
+- 📫 Reach me on LinkedIn: **Anirudh Sharma**
 
 <br clear="right"/>
 
