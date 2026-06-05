@@ -101,18 +101,16 @@ Visualize real-time sensor data from IoT devices.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adrenoezz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrenoEzz&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrenoEzz&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=adrenoezz&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AdrenoEzz&theme=tokyonight"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrenoezz&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ## 💡 Currently Learning
 
 - Modern OpenGL
