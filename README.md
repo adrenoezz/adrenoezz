@@ -115,11 +115,11 @@ Visualize real-time sensor data from IoT devices.
 
 ## 💡 Currently Learning
 
-- Modern OpenGL
 - Embedded Systems
+- openGL
+- Vulkan
 - ESP32 Networking
-- Computer Graphics
-- Game Development
+- Computer Graphic
 - Low-Level Programming
 
 ---
